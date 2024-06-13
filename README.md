@@ -1,0 +1,3 @@
+# Personal Prettier Config
+
+More details soon...
