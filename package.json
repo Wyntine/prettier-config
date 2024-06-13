@@ -1,10 +1,11 @@
 {
   "name": "@wyntine/prettier-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Prettier config for Wyntine.",
   "keywords": [
     "prettier"
   ],
+  "main": "prettier.config.cjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Wyntine/prettier-config.git"
