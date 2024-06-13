@@ -1,3 +1,7 @@
-# Personal Prettier Config
+# How to use?
 
-More details soon...
+- Install the package using your preferred package manager.
+- Add this line to package.json:
+```json
+"prettier": "@wyntine/prettier-config",
+```
