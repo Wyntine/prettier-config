@@ -1,13 +1,21 @@
 {
-  "name": "prettier-config",
+  "name": "@Wyntine/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for Wyntine.",
   "keywords": [
     "prettier"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wyntine/prettier-config.git"
+  },
   "author": "Wyntine",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^3.3.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Wyntine/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Wyntine/prettier-config#readme"
 }
